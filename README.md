@@ -1,7 +1,8 @@
 # Fake-news-classification-using-transfer-learning
-Survay of the fake news classification  between various  deeplearning models 
+Survey of the fake news classification  between various  deeplearning models 
 
-Here github cant allow user to upload files larger than 50 MB size 
+Here github wont allow user to upload files larger than 50 MB size 
+so follow the following guidlines
 
 Step 1 : Before loading the notebook  upload this data to your google drive  name this folder as paper works
         https://drive.google.com/open?id=15AgR0dJRZmK465JUOHwWGyq6FMOJRVhG
