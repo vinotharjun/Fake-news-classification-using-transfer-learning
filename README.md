@@ -7,7 +7,7 @@ so follow the following guidlines
 Step 1 : Before loading the notebook  upload this data to your google drive  name this folder as paper works
         https://drive.google.com/open?id=15AgR0dJRZmK465JUOHwWGyq6FMOJRVhG
         
-Step 2: Connect notebook to your google drive 
+Step 2: Notebooks can be open with google colab after opening notebook  connect notebook to your google drive 
 
 Step 3 : Enjoy the results ,and improve the results
 
