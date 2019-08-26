@@ -2,13 +2,11 @@
 Survay of the fake news classification  between various  deeplearning models 
 
 Here github cant allow user to upload files larger than 50 MB size 
-So i attached drive link which has tha following folder structure
 
-./paper works/
-              - Data
-               - Saved Models
-                        - RNN
-                        - CNN
-                        - LSTM
-                        - ELMo embeddings
-               -dataset.csv
+Step 1 : Before loading the notebook  upload this data to your google drive  name this folder as paper works
+        https://drive.google.com/open?id=15AgR0dJRZmK465JUOHwWGyq6FMOJRVhG
+        
+Step 2: Connect notebook to your google drive 
+
+Step 3 : Enjoy the results ,and improve the results
+
