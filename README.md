@@ -17,3 +17,6 @@ Step 2: Notebooks can be open with google colab after opening notebook  connect 
 Step 3 : Enjoy the results ,and improve the results
 
 dataset link :https://s3.amazonaws.com/assets.datacamp.com/blog_assets/fake_or_real_news.csv
+
+# Results from the Research
+![alt text](https://raw.githubusercontent.com/vinotharjun/Fake-news-classification-using-transfer-learning/master/Screenshot%20from%202019-11-25%2021-48-27.png)
