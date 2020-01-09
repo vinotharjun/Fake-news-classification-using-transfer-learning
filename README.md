@@ -1,4 +1,6 @@
 # Fake-news-classification-using-transfer-learning
+
+Refer documentation folder for Complete documentation 
 Survey of the fake news classification  between various  deeplearning models 
 
 Here github wont allow user to upload files larger than 50 MB size 
